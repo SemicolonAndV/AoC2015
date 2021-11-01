@@ -1,6 +1,6 @@
 import re
 
-with open('Day6/input.txt', 'r') as file:
+with open('day06/input.txt', 'r') as file:
     data = file.readlines()
     
 lights, bright = {}, {}

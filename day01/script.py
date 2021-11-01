@@ -1,4 +1,4 @@
-with open('Day1/input.txt', 'r') as file:
+with open('day01/input.txt', 'r') as file:
     data = file.read()
     
 up = data.count('(')

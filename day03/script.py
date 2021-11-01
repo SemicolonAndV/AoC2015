@@ -1,4 +1,4 @@
-with open('Day3/input.txt', 'r') as file:
+with open('day03/input.txt', 'r') as file:
     data = file.read()
     
 diff = {'>' : (1, 0), 

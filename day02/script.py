@@ -1,4 +1,4 @@
-with open('Day2/input.txt', 'r') as file:
+with open('day02/input.txt', 'r') as file:
     data = file.readlines()
     
 boxes = [line.strip().split('x') for line in data]

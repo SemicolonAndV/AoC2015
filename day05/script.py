@@ -2,7 +2,7 @@ import re
 
 from string import ascii_lowercase
 
-with open('Day5/input.txt', 'r') as file:
+with open('day05/input.txt', 'r') as file:
     data = file.readlines()
 
 x1 = [line for line in data if (re.search(r'(.)\1', line) and

@@ -1,6 +1,6 @@
 import hashlib
 
-with open('Day4/input.txt', 'r') as file:
+with open('day04/input.txt', 'r') as file:
     data = file.read()
     
 index = 0
