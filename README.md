@@ -1,2 +1,5 @@
 # AoC2015
-solution for Advent of Code 2015 edition
+Solutions for Advent of Code 2015 edition.  
+Used languages:  
+- Python
+- Java
